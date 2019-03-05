@@ -4,3 +4,11 @@ https://github.com/jeffThompson/DarkProcessingTheme_3.0 is the original dark the
 https://www.dafont.com/font-comment.php?file=perfect_dos_vga_437 is the font used for the text editor now. 
 https://www.dafont.com/pacifico.font is the font used for everything else. 
 I hope you enjoy this! 
+
+<h1>Install<h1>
+  <p>
+    Put the fonts in the folder (processing)\lib. </p>
+  <p></p>
+  <p>Put the preferences.txt in C:\Users\(you)\AppData\Roaming\Processing</p>
+  <p></p>
+  <p> Please tell me if this doesn't work! </p>
