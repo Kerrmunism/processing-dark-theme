@@ -10,4 +10,7 @@ I hope you enjoy this!
   <p></p>
   <p>Put the preferences.txt in C:\Users\(you)\AppData\Roaming\Processing</p>
   <p></p>
+  <p>Put the theme.txt in the lib folder in processing (or drop the lib folder in and hit replace).</p>
+<p></p>
   <p> Please tell me if this doesn't work! </p>
+  
